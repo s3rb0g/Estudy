@@ -1,0 +1,13 @@
+Human-Computer Interaction   01 Handouts 2
+
+Importance of HCI
+Human-computer interaction is important. Usable and efficient interaction with different computing devices translates to higher productivity in any industry. 
+A poor interface would make it difficult for users to benefit from even the simplest systems or programs.
+
+The simple aesthetic appeal of an interface, while satisfying the need for usability, is now a critical requirement for commercial success. Creating products and services that work seamlessly is important because it gives any company the edge and therefore sells better. One good example is the family of distinctly designed Apple products. Apple products are very attractive and have created a crowd of regular customers who patronize their products; even its functionalities are nearly equal to their competitors.
+
+HCI had a significant impact on the history of computing and changed human’s daily lives. Without even knowing where it exactly started, HCI still continues to redefine how to view, absorb, exchange, create, and manipulate information technology towards human advantage. Below are some noticeable impacts:
+•	The spreadsheet interface made business computing a success.
+•	The Internet phenomenon could not have happened without the Web-browser interface.
+•	Smartphones and other mobile devices are widely used today.
+•	Body-based and action-oriented interfaces are now being used to play and enjoy computer games.

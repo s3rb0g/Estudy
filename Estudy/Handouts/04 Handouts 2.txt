@@ -1,0 +1,6 @@
+Object Oriented Programming     01 Handouts 2
+
+Class
+•	Objects of the same kind are said to have the same data type and belong to the same class.
+•	A class defines a kind of object; it is a blueprint for defining the objects.
+•	The data type of an object is the name of its class.

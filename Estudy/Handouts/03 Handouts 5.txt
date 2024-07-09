@@ -1,0 +1,23 @@
+Human-Computer Interaction   01 Handouts 5
+
+Remind Users
+A significant task involves the use of memory. Another strategy is to employ interfaces that provide constant reminders about important information or actions to be performed and thus refresh the user’s memory. 
+
+Examples:
+•	Confirming the safe receipt of a credit card number in an online payment
+•	Reminding the user to perform a system update on a computer
+
+Prevent Errors/Reversal of Action
+In performing any given task, it is important to complete the task without any error. Therefore, the interaction and the interface should be designed to avoid confusion and overwork of users.
+
+Examples:
+•	Confirming the user’s action and displaying large interactive processes through pop-up menus
+•	Presenting only the relevant information at a given time and making selections rather than enforcing recall or full manual input specification by the user
+•	Making the user comfortable by allowing an easy reversal of action like the Undo button
+
+Natural Interaction and Interface
+The last HCI principle is to favor natural interaction and interfaces. This principle refers to the reflection of various actions and processes in human’s daily life. 
+
+Examples:
+•	The natural interactive interface of Wii
+•	The natural interactive interface of the online game Pokémon GO

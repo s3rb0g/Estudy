@@ -1,0 +1,24 @@
+Human-Computer Interaction   01 Handouts 3
+
+Principles of HCI
+Know the User
+Commonly known as “user-centered design,” this principle serves as the primary principle of HCI. 
+This implies that the interaction and interface should cater to the needs and capabilities of the target users of the system in design.  Basic information, such as gender, age, education level, and
+computing experience, are collected and analyzed to determine possible preferences, tendencies, physical and mental capabilities, and skill levels of users. 
+
+Examples:
+•	Profiling the target user of a program within a company
+•	Knowing the age bracket of the software users in an educational institution
+•	Conducting a survey about the computing experience of the employees in a company who will utilize the system
+
+Contrary to this, the concept of universal usability caters to a wide range of users rather than specific ones. 
+
+This concept promotes humane interfaces. As simple as it sounds, the universal usability concept is generally difficult to achieve and implement on a single system interface because of the extensive requirements in the advanced multicultural societies around the world.
+
+Understand the Task
+Understanding the task is another plausible principle of HCI. This principle is closely related to interaction modeling and user analysis. 
+
+Examples:
+•	Formulating an interaction model for the task of logging into a website
+•	Creating a conceptual model for system access in a corporation
+•	Analyzing the user’s capability to navigate at a certain module of a program

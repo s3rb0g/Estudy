@@ -1,0 +1,14 @@
+Human-Computer Interaction   01 Handouts 1
+
+Introduction to Human-Computer Interaction
+ 
+What is Human-Computer Interaction (HCI)?
+Human-Computer Interaction (HCI) is a cross-disciplinary area that deals with the theory, design, implementation, and evaluation of ways human use and interact with computing devices. HCI uses productivity, safety, and entertainment to support and fulfill human-computer activities. It initially focused on computer interface design and has now expanded to cover almost all forms of information technology design.
+
+HCI has become more important in recent years as computers have become part of a human’s daily routine. Aside from making the necessary computational functionalities available, its focus has been on how to design and implement computer interfaces for high usability and user experience.
+•	High usability is the interactive design and operations through specific computer system criteria which includes correctness, efficiency, safety, utility, learning, and retention.
+•	User experience focuses on creating systems that enhance the overall involvement of a person, which must include a satisfying, enjoyable, entertaining, helpful, motivating, aesthetically pleasing, and fun experience to the user.
+
+Humans interact with computing devices through a user interface. This includes software, such as those being displayed on a computer monitor or any mobile device, and hardware, such as keyboard, mouse, and other external devices.
+•	Interaction refers to an abstract model by which humans interact with the computing device to complete a given task.
+•	Interface, on the other hand, refers to the boundary wherein two (2) independent systems meet and act on or communicate with each other.

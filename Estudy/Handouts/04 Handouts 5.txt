@@ -1,0 +1,14 @@
+Object Oriented Programming     01 Handouts 5
+
+Package
+•	A package is a collection of related classes and interfaces that have been grouped together into a folder.
+•	The name of the folder is the name of the package.
+•	The classes in the package are each placed in a separated file and the file name begins with the name of the class.
+•	You can use all the classes that are in a package within any program or class definition by placing an import statement.
+•	The class does not need to be in the same folder with the classes in the package. The syntax is: import  package_name.class_name_or_asterisk;
+
+Examples are:
+import  java.util.Scanner; 
+import  java.util.*;
+
+

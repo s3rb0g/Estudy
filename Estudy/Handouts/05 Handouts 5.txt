@@ -1,0 +1,12 @@
+System Administration and Maintenance   01 Handouts 5
+
+11.	nano, vi, jed – command to access the text editor.
+12.	sudo – Linux command stands for “ Super User Do” to do or execute command with administrative or root privileges.
+13.	df – command to see the available space on the disk or each partition.
+14.	tar – command to work with compressed files such as tarball archive.
+15.	zip, unzip – command used to zip or compressed a files or to extract a zip file.
+16.	chmod – to make file executable and change the permission to grant in Linux.
+17.	hostname – to show the hostname of your network.
+18.	ping – command to access the ping utility and to check your connection to the server.
+19.	ifconfig or ipconfig – command used to view your network device configuration and settings.
+20.	--help – to show more useful commands and it’s functions. 

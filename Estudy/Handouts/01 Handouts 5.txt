@@ -1,0 +1,9 @@
+Computer Programming   01 Handouts 5
+
+Programming Methodologies	
+
+Programming methodology – is the approach to analyzing such complex problems by planning the software development and controlling the development process. There are two (2) popular approaches to writing computer programs:
+
+Procedural Programming – in this approach, problem is broken down into functions that perform one (1) task each. This approach is suitable only for small programs that have low level of complexity.
+
+Object-Oriented Programming – in this approach, programs are organized around objects rather than actions, and data rather than logic. The solution resolves around entities or objects that are part of the problem. It deals with how to store data related to the entities, how the entities behave and how they interact with each other to give the desired result.

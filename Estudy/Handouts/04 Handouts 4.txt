@@ -1,0 +1,6 @@
+Object Oriented Programming     01 Handouts 4
+
+Interface
+•	An interface is a program component that contains the heading for a number of public methods.
+•	Some interfaces describe all the public methods in a class while others specify only certain methods.
+•	An interface is used by another class through the implements keyword.

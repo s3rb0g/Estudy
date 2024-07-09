@@ -1,0 +1,11 @@
+Data Structures and Algorithms   01 Handouts 4
+
+Algorithm
+	-is a step-by-step set of instructions to be executed in sequence for solving a problem.
+
+•	Characteristics of an algorithm:
+	o	Finiteness: An algorithm must terminate after a specified number of steps.
+	o	Definiteness: Each instruction has to be clear and unambiguous.
+	o	Input: An algorithm should have zero or more well-defined data given before the algorithm begins.
+	o	Output: An algorithm must have one (1) or more results, with specified relation to the input.
+	o	Uniqueness: The result of each step depends on the input and/or the result of the previous step.

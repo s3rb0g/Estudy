@@ -1,0 +1,9 @@
+Data Structures and Algorithms   01 Handouts 1
+
+Fundamentals of Data Structures and Algorithms
+
+Data Structures
+•	A data structure is a special format for storing and organizing data.
+•	Two (2) types of data structure:
+	o	Linear: Elements are accessed in a sequential order but may be stored unsystematically.
+	o	Non-Linear: Elements are stored and accessed in a non- sequential order.

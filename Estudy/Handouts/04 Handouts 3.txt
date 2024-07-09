@@ -1,0 +1,7 @@
+Object Oriented Programming     01 Handouts 3
+
+Inheritance
+•	One way of organizing classes is through inheritance.
+•	Inheritance allows objects of a class to take on the properties of objects from another class.
+•	Inheritance is used to avoid the repetition of programming instructions for each class.
+•	To apply inheritance between classes, the extends keyword is used.

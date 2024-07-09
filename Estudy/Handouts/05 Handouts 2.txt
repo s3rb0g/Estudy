@@ -1,0 +1,10 @@
+System Administration and Maintenance   01 Handouts 2
+
+Desktop Developers
+•	Gnome
+•	KDE
+•	Apt – advance packaging tool
+
+Environment
+•	GUI – Graphical user interface
+•	CLI – Command Line Interface

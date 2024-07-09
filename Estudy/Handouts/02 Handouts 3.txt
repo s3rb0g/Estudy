@@ -1,0 +1,19 @@
+Data Structures and Algorithms   01 Handouts 3
+
+•	Abstract data types:
+	o	Linked list – used for storing elements where each is a separate object.
+	o	Stack – an ordered list in which the last element added is the first element retrieved or removed (Last-In, First-Out).
+	o	Queue – an ordered list in which the first element added is the first element retrieved or removed (First-In, First- Out).
+	o	Tree – represents a hierarchical nature of a structure in a graphical form.
+	o	Priority queue – a special type of queue where elements are processed based on their order (natural or custom).
+	o	Heap – a complete binary tree where the value of each of each parent node is either higher or lower than the value of its child nodes.
+	o	Set – a collection of elements where each element is unique.
+	o	Map – a set of ordered pairs where elements are known as keys (identifiers) and values (content).
+	o	Graph – consists of a set of vertices (or nodes) and a set of edges (relations) between the pairs of vertices.
+
+•	The four (4) main operations that could be defined for each ADT:
+ 	o	Initializing
+	o	Adding
+	o	Accessing
+	o	Removing of data.
+

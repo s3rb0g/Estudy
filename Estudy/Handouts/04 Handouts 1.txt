@@ -1,0 +1,11 @@
+Object Oriented Programming     01 Handouts 1
+
+Object-Oriented Programming Concepts
+	
+Object-Oriented Programming
+It is a programming methodology that defines objects whose behaviors and interactions accomplish a given task.
+
+Object
+•	An object has characteristics or attributes.
+•	The values of an object’s attributes give the object a state.
+•	The actions that an object can take are called behaviors. Each behavior is defined by a piece of Java code called a method.

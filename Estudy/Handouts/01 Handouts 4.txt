@@ -1,0 +1,23 @@
+Computer Programming   01 Handouts 4
+
+Pseudocode 
+	– is a method of describing computer algorithms using a combination of natural language and programming language. It is a technique to show the programming steps.
+
+The following are some rules that are frequently followed when writing pseudocode:
+•	Symbols are used for the following common operations:
+	•	Arithmetic operations (+, -, *, /)
+	•	Assignment (=)
+	•	Comparison (=, ?, <, >, =, =)
+	•	Logical (and, or)
+•	Certain keywords can be used as a command, such as PRINT, WRITE, READ, SET, GO TO, etc.
+•	Indentation is used to indicate branches and loops of instructions.
+
+
+Example:
+Using the example problem in algorithm.
+
+The pseudocode to find and display the volume of the rectangle is:
+
+READ length 		READ width 
+READ height 		SET volume  to  0
+PRINT volume		COMPUTE volume  as  length  *  width  *  height

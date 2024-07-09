@@ -1,0 +1,12 @@
+Data Structures and Algorithms   01 Handouts 2
+
+•	An abstract data type (ADT) is a logical description of how data is viewed as well as the operations that are allowed without regard to how they will be implemented.
+
+•	Benefits of using ADT:
+	o	Code is easier to understand.
+	o	Implementations of ADTs can be changed without requiring changes to the program that uses the ADTs.
+	o	ADTs can be used in future programs.
+
+•	Two (2) parts of ADT:
+	o	Public or external – the data and the operations
+	o	Private or internal – the representation and the implementation

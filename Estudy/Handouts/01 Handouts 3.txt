@@ -1,0 +1,18 @@
+Computer Programming   01 Handouts 3
+
+Algorithm	
+An algorithm must be expressed completely in a natural language that anyone can follow, such as directions can be written in English language. The computer programmer lists down all the steps required to resolve a problem before writing the actual code.
+
+Example:
+Design an algorithm that find and display the volume of a rectangle. It is required to know the rectangle’s length, width, and height, and the formula to know the rectangle’s volume. The formula is: volume = length × width × height.
+
+The algorithm to find and display the volume of the rectangle is:
+1.	Get the length of the rectangle.
+2.	Get the width of the rectangle.
+3.	Get the height of the rectangle.
+4.	Find the volume using the formula: volume = length × width × height.
+5.	Display the computed volume.
+
+There are two (2) common used tools in representing algorithm:
+•	Pseudocode
+•	Flowchart.

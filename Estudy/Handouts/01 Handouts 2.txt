@@ -1,0 +1,15 @@
+Computer Programming   01 Handouts 2
+
+Programming Cycle
+	
+Algorithm – It is a problem-solving technique used in solving programming problems. It is a step-by-step problem-solving process in which a solution is arrived at in a finite amount of time.
+
+The problem-solving process in the programming environment involves the following steps:
+1.	Problem Analysis: Analyze the problem and outline the problem and its solution requirements.
+2.	Algorithm Design: Design an algorithm to solve the problem.
+3.	Coding: implement the algorithm in a programming language.
+4.	Execution: Verify that the algorithm.
+
+To develop a program that solve a problem, start first by analyzing the problem, then outlining the problem and the
+options for a solution. Then design the algorithm, write the program instructions, and enter the program into a
+computer system. 

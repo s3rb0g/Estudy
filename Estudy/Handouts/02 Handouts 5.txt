@@ -1,0 +1,12 @@
+Data Structures and Algorithms   01 Handouts 5
+
+•	Elements of an algorithm:
+	o	Sequential operations
+	o	Actions based on the state of a data structure
+	o	Iteration – repeating an action multiple times
+	o	Recursion – occurs when a function calls itself once or multiple times to solve a problem
+
+•	Algorithm design paradigms:
+	o	Divide and Conquer: A problem is broken into smaller subproblems.
+	o	Greedy Algorithms: The optimal approach is always chosen in solving a problem.
+	o	Dynamic Programming: Similar to Divide and Conquer except that the results of the subproblems are reused for overlapping subproblems.

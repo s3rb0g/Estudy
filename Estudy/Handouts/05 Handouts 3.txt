@@ -1,0 +1,9 @@
+System Administration and Maintenance   01 Handouts 3
+
+Factors to be considered before Installing Software
+•	Necessity
+•	Requirements
+•	Support
+
+Package Manager
+A program used to install, update, upgrade and remove the software.

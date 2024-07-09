@@ -1,0 +1,17 @@
+Computer Programming   01 Handouts 1
+
+Types of Programming	
+Computer program – It is a sequence of statements intended to accomplish a certain task. It is a set of instructions for a computer to follow.
+Programming – It is a process of planning and creating a program
+Low-level Languages – These are the languages that deals with a computer’s hardware components. There are two (2) common low-level language: machine language and assembly language.
+•	Machine Language – It is the language that the computer can directly understand. It is the most basic set of instructions that the computer can execute. Machine language programs are written into binary codes (0, 1).
+•	Assembly Language – It is a symbolic form of machine language that is easier for people to read, such as ADD AX DX. This makes use of instructions in mnemonic form.
+o	Assembler – a program that translates assembly language instructions into machine language.
+High-level Languages – These are the programming languages that use natural languages, such as English language. A high- level language has its own syntax.
+•	Syntax – rules of the language, for example, print or write is used to produce an output.
+•	Commands – these are program statements that carry out tasks that the program has to perform, for example, print this word or add these two (2) numbers.
+•	Compiler – it is a program that translates a program written in a high-level language into a low-level language before executing the program statements.
+•	Interpreter – this acts a compiler, but it translates one (1) program statement at a time, this execute the statement as soon as it is translated.
+•	Syntax errors – these are errors that might be encountered during the process of translation. Example is a misspelled command.
+•	Logical errors – errors that occur when the syntax of the program is correct but the expected output is not.
+•	Debugging – the process of locating and correcting the errors of a program.

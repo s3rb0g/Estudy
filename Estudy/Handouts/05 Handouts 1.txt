@@ -1,0 +1,11 @@
+System Administration and Maintenance   01 Handouts 1
+
+Software
+A series of related instructions that tells the computer what task(s) to do and how to perform them.
+
+Categories:
+•	System Software
+	o	Operating System
+	o	Utility Program
+
+•	Application Software

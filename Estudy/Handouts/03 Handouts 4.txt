@@ -1,0 +1,26 @@
+Human-Computer Interaction   01 Handouts 4
+
+Reduce Memory Load
+Humans are more efficient in performing tasks that require light memory load, either for long term or
+short term memory. Keeping the user’s short term memory load light is important in relation to the
+interface’s role as a quick and easy guide to complete a task. The capacity of human’s short term
+memory is about five (5) to nine (9) specific information with respect to the completion of a task.
+Light memory load also leads to less erroneous behavior.
+
+Examples:
+•	Keeping the number of menu items or tabs to a lesser quantity than what is required for a
+human’s short term memory to maintain good user awareness of the ongoing task
+•	Windows and Mac provide users with keyboard shortcuts for copy and pasting and for users
+to navigate and operate more quickly and effortlessly.
+
+Strive for Consistency
+A way to relieve long term memory load of a user is to strive for consistency. This applies to both
+interaction model and interface implementation. A user has a higher tendency to be confused and
+exhibit inaccurate and inappropriate responses if the same subtask is involved at a different time and
+for a different interaction step or interface methods. Aside from being able to remember what to do,
+consistency and familiarity lead to higher satisfaction and preference while using the system.
+
+Examples:
+•	A consistent look of the interface within a gaming application
+•	A consistent interface between Microsoft PowerPoint and Microsoft Word
+ 
